@@ -1,0 +1,5 @@
+@tailwind base;
+/* normalize css plus a few base styles */
+@tailwind components;
+@tailwind utilities;
+/* all our utility classes generated from config */
